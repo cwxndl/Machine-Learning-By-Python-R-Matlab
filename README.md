@@ -10,7 +10,13 @@
 ### 线性回归算法
 
 ### 逻辑回归算法
-
+- Python实现
+  - [逻辑回归二分类算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Logistics%20Regression/Python/Logistic.py)
+  - [心脏病数据集预测-逻辑回归](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Logistics%20Regression/Python/heart_logistic.ipynb)
+  - [马疝病数据集预测-逻辑回归](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Logistics%20Regression/Python/horsecolic.ipynb)
+ - Matlab相关
+ - R语言相关
+ - [逻辑回归算法tex总结文档]()
 ### 线性判别分析算法
 
 ### 决策树分类算法
