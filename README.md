@@ -25,7 +25,7 @@
   - [你可以使用自己的数据集进行测试](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test_decision_classify.py)
   - [Jupter文件总结代码](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/DecisionTress_classify.ipynb)
   - [电离层数据集二分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test1.ipynb)
-  - [心脏病预测数据集二分类]()
+  - [心脏病预测数据集二分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test2.ipynb)
   - [鸢尾属植物数据集多分类]()
 - Matlab相关
   - [电离层数据集MATLAB决策树分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Matlab/demo1.m)
