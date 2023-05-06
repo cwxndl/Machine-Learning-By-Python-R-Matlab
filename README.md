@@ -24,6 +24,7 @@
   - [决策树分类算法主程序（ID3、C4.5、CART）预剪枝，后剪枝](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/Decisiontree_classify.py)
   - [你可以使用自己的数据集进行测试](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test_decision_classify.py)
   - [基于简单数据集，心脏病预测数据集，fisheririrs数据上的决策树分类以及决策树可视化](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/DecisionTress_classify.ipynb)
+  - [电离层数据集二分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test1.py)
 - Matlab相关
 - R语言相关
 - [决策树分类算法Tex总结文档](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/tex%E6%96%87%E4%BB%B6/%E5%86%B3%E7%AD%96%E6%A0%91%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.pdf)
