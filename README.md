@@ -41,6 +41,7 @@
   
   ![ionoshpere_decisionTree](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/R/ionosphere%E6%95%B0%E6%8D%AE%E9%9B%86%E5%86%B3%E7%AD%96%E6%A0%91.png)
 - [决策树分类算法Tex总结文档](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/tex%E6%96%87%E4%BB%B6/%E5%86%B3%E7%AD%96%E6%A0%91%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.pdf)
+- [CSDN链接](https://blog.csdn.net/ldy__cwx/article/details/130542961?spm=1001.2014.3001.5501)
 ## 项目使用说明
 本仓库中的每一个子文件夹就是一个机器学习算法，子文件夹中又包括三个子文件夹：Python、matlab、R，分别代表该机器学习算法基于上面三种编程语言的实现，其中
 **Python**子文件夹中又包括了一个tex文件夹,该文件夹是对该机器学习算法的总结，**读者在学习该算法之前最好先阅读一下此tex文件夹的PDF文件**，以便取得事半功倍的效果。
