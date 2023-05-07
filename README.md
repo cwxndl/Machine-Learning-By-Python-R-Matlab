@@ -31,6 +31,7 @@
   - [电离层数据集MATLAB决策树分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Matlab/demo1.m)
   - [鸢尾属植物数据集MATLAB决策树多分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Matlab/demo2.m)
 - R语言相关
+  - [使用R语言中的rpart函数建立决策树](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/R/demo1.Rmd)
 - [决策树分类算法Tex总结文档](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/tex%E6%96%87%E4%BB%B6/%E5%86%B3%E7%AD%96%E6%A0%91%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.pdf)
 ## 项目使用说明
 本仓库中的每一个子文件夹就是一个机器学习算法，子文件夹中又包括三个子文件夹：Python、matlab、R，分别代表该机器学习算法基于上面三种编程语言的实现，其中
