@@ -27,6 +27,7 @@
   - [电离层数据集二分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test1.ipynb)
   - [心脏病预测数据集二分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test2.ipynb)
   - [鸢尾属植物数据集多分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test3.ipynb)
+  - [乳腺癌数据集二分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Python/test4.ipynb)
 - Matlab相关
   - [电离层数据集MATLAB决策树分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Matlab/demo1.m)
   - [鸢尾属植物数据集MATLAB决策树多分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeClassify/Matlab/demo2.m)
