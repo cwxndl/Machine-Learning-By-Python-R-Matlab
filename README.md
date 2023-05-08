@@ -45,7 +45,8 @@
 - [CSDN链接](https://blog.csdn.net/ldy__cwx/article/details/130542961?spm=1001.2014.3001.5501)
 ### 随机森林算法
 - Python实现
-
+  - [随机森林算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest.py)
+  - [随机森林算法Jupyter文件总结](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest.ipynb)
 ## 项目使用说明
 本仓库中的每一个子文件夹就是一个机器学习算法，子文件夹中又包括三个子文件夹：Python、matlab、R，分别代表该机器学习算法基于上面三种编程语言的实现，其中
 **Python**子文件夹中又包括了一个tex文件夹,该文件夹是对该机器学习算法的总结，**读者在学习该算法之前最好先阅读一下此tex文件夹的PDF文件**，以便取得事半功倍的效果。
