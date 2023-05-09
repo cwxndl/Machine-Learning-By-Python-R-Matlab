@@ -57,6 +57,7 @@
 - Python实现
   - [决策树回归算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/DecisionTree_Regression.py)
   - [Jupyter文件总结](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/DecisionTree_Regression.ipynb)
+  - [你可以使用自己的数据集进行测试](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/DecisionTree_Regression_test.py)
   
 ### 随机森林分类算法
 - Python实现
