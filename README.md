@@ -58,6 +58,9 @@
   - [决策树回归算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/DecisionTree_Regression.py)
   - [Jupyter文件总结](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/DecisionTree_Regression.ipynb)
   - [你可以使用自己的数据集进行测试](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/DecisionTree_Regression_test.py)
+
+ **自编算法-波士顿房价预测案例**
+ ![test](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/DecisionTreeRegression/python/Images/%E5%86%B3%E7%AD%96%E6%A0%91%E5%9B%9E%E5%BD%92%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B.png)
   
 ### 随机森林分类算法
 - Python实现
