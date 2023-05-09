@@ -56,8 +56,8 @@
 ### 决策树回归算法
 ### 随机森林分类算法
 - Python实现
-  - [随机森林算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest.py)
-  - [随机森林算法Jupyter文件总结](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest.ipynb)
+  - [随机森林分类算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest.py)
+  - [随机森林分类算法Jupyter文件总结](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest.ipynb)
   - [你可以在该文件下导入自己的数据进行随机森林分类](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/RandomForest_Classify/Python/Random_Forest_test.py)
 
 ### 随机森林回归算法
