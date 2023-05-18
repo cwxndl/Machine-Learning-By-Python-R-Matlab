@@ -23,6 +23,11 @@
 - Python实现（批量梯度下降与随机梯度下降）
   - [感知机模型Python实现Jupyter文件](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Perceptron/Python/Perceptron.ipynb)
   - [感知机模型Python主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Perceptron/Python/myPerceptron.py)
+ 
+ **二维线性可分二分类数据集**
+ ![test](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Perceptron/Python/Images/%E4%BA%8C%E7%BB%B4%E6%84%9F%E7%9F%A5%E6%9C%BA%E7%A4%BA%E4%BE%8B.png)
+ **三维线性可分二分类数据集**
+ ![test]()
 ### 逻辑回归算法
 - Python实现
   - [逻辑回归二分类算法主程序](https://github.com/cwxndl/Machine-Learning-By-Python-R-Matlab/blob/main/Logistics%20Regression/Python/Logistic.py)
